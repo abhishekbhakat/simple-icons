@@ -9009,6 +9009,11 @@
             "source": "https://laravel-livewire.com"
         },
         {
+            "title": "LlamaIndex",
+            "hex": "000000",
+            "source": "https://www.llamaindex.ai"
+        },
+        {
             "title": "LLVM",
             "hex": "262D3A",
             "source": "https://llvm.org/Logo.html"
